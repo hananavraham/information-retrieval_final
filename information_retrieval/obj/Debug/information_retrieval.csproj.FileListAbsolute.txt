@@ -1,0 +1,12 @@
+c:\users\hananavr\documents\visual studio 2015\Projects\information_retrieval\information_retrieval\bin\Debug\information_retrieval.exe.config
+c:\users\hananavr\documents\visual studio 2015\Projects\information_retrieval\information_retrieval\obj\Debug\information_retrieval.Form1.resources
+c:\users\hananavr\documents\visual studio 2015\Projects\information_retrieval\information_retrieval\obj\Debug\information_retrieval.Properties.Resources.resources
+c:\users\hananavr\documents\visual studio 2015\Projects\information_retrieval\information_retrieval\obj\Debug\information_retrieval.csproj.GenerateResource.Cache
+c:\users\hananavr\documents\visual studio 2015\Projects\information_retrieval\information_retrieval\bin\Debug\information_retrieval.exe
+c:\users\hananavr\documents\visual studio 2015\Projects\information_retrieval\information_retrieval\bin\Debug\information_retrieval.pdb
+c:\users\hananavr\documents\visual studio 2015\Projects\information_retrieval\information_retrieval\bin\Debug\MySql.Data.dll
+c:\users\hananavr\documents\visual studio 2015\Projects\information_retrieval\information_retrieval\bin\Debug\MySql.Data.xml
+c:\users\hananavr\documents\visual studio 2015\Projects\information_retrieval\information_retrieval\obj\Debug\information_retrieval.exe
+c:\users\hananavr\documents\visual studio 2015\Projects\information_retrieval\information_retrieval\obj\Debug\information_retrieval.pdb
+C:\Users\hananavr\Documents\Visual Studio 2015\Projects\information_retrieval\information_retrieval\obj\Debug\information_retrieval.Form2.resources
+C:\Users\hananavr\Documents\Visual Studio 2015\Projects\information_retrieval\information_retrieval\obj\Debug\information_retrieval.csprojResolveAssemblyReference.cache
